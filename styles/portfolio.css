@@ -1,0 +1,30 @@
+\
+/* common shard style */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.text-primary {
+    color: #FD6E0A;;
+}
+nav {
+    display: flex;
+}
+.nav-title {
+    color: #181818;
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+nav > ul {
+    display: flex;
+}
+nav li {
+    list-style: none;
+    margin-right: 51px; 
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
