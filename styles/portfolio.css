@@ -6,6 +6,9 @@ body {
 .text-primary {
     color: #FD6E0A;;
 }
+.btn-primary {
+    color: #FD6E0A;
+}
 nav {
     display: flex;
 }
@@ -22,7 +25,7 @@ nav > ul {
 }
 nav li {
     list-style: none;
-    margin-right: 51px; 
+    margin-right: 50px; 
 }
 nav a{
     text-decoration: none;
